@@ -1,5 +1,6 @@
-#h1{
+h1 {
     text-align: center;
+    color: #333;
 }
 
 #div1{
@@ -17,4 +18,10 @@ display: flex;
 display: grid;
   justify-content: center;
   margin-top: 30px;
+}
+
+#taskCount {
+    text-align: center;
+    font-size: 1.2em;
+    margin-top: 20px;
 }
