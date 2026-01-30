@@ -12,6 +12,4 @@ div.appendChild(input);
 let btn = document.createElement("button");
 btn.innerText="Add";
 div.appendChild(btn);
-
-
 document.body.appendChild(div);
