@@ -2,11 +2,10 @@
     text-align: center;
 }
 
-div{
+#div1{
 display: flex;
   justify-content: center;
   margin-top: 30px;
-  background-color: red;
 }
 
 .done {
@@ -14,3 +13,8 @@ display: flex;
   color: gray;
 }
 
+#div2{
+display: grid;
+  justify-content: center;
+  margin-top: 30px;
+}
