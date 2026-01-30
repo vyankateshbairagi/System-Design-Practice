@@ -9,3 +9,8 @@ display: flex;
   background-color: red;
 }
 
+.done {
+  text-decoration: line-through;
+  color: gray;
+}
+
