@@ -56,12 +56,3 @@ div2.appendChild(ulist);
 
 document.body.appendChild(div2);
 
-
-
-// practice
-
-let a =11;
-let b = 12;
-let c= a +b  + a++ + b++ + ++a + ++b;
-
-
