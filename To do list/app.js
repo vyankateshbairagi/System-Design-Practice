@@ -38,7 +38,10 @@ function addEventListeners() {
     });
 }
 
+
 // Add a new task
+
+
 function addTask() {
     const taskText = taskInput.value.trim();
     
